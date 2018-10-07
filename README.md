@@ -1,4 +1,7 @@
-# vue-app-template
+# Vue App Template
+
+This is simple Vue app template, based on [Vue-cli v3.04](https://github.com/vuejs/vue-cli) script with added/enabled additional functionalities, mandatory these days:
+* support for global SASS/SCSS styling which hot-reloading
 
 ## Project setup
 ```
